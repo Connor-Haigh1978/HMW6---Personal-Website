@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Connor Haigh
 
 You can use the [editor on GitHub](https://github.com/Connor-Haigh1978/HMW6---Personal-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
