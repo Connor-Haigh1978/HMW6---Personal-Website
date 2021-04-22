@@ -1,6 +1,6 @@
 ## Connor Haigh
 
-You can use the [editor on GitHub](https://github.com/Connor-Haigh1978/HMW6---Personal-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Connor Haigh and I'm a current junior at The University of Oklahoma.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
