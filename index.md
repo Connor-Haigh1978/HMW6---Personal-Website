@@ -1,8 +1,8 @@
 ## Connor Haigh
 
-Hello, my name is Connor Haigh and I'm a current junior at The University of Oklahoma.
+Hello, my name is Connor Haigh and this is my website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](file:///C:/Users/conno/Desktop/MIS%203033/HMW6.html) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
